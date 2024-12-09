@@ -3,4 +3,10 @@
 ## v0.1.0 [21-10-2025]
 
 ### Add
--Inizio progetto
+-Creazione progetto
+
+## v0.1.1 [09/12/2024]
+
+### Add
+-Caricamento Codice in java
+
