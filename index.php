@@ -15,7 +15,7 @@
     <style>
 
       :root {
-        --main-color: gold;
+        --main-color: #1434A4;
         --text1: hsl(200, 65%, 15%);
       }
 
@@ -110,7 +110,7 @@
     <script>
 
       window.addEventListener('DOMContentLoaded', (e) => {
-        const appVersion = '0.2.0'
+        const appVersion = '0.2.1'
         console.log('WebApplication: ', appVersion)
 
       })

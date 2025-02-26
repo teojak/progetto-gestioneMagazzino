@@ -1,7 +1,7 @@
 progetto-gestioneMagazzino
 ==========================
 
-v0.2.0  26-02-2025
+v0.2.1  26-02-2025
 
 Progetto che permette la gestione del proprio magazzino in locale ed offline
 
