@@ -1,4 +1,4 @@
-#Changelog
+# Changelog
 
 ## v0.2.0 [05/06/2025]
 
