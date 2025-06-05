@@ -6,7 +6,7 @@
 <p>My first paragraph.</p>
  <div>
     <?php 
-        $type = "postgresql";
+        $type = "pgsql";
         $host = "localhost";
         $db = "myDb";
         $port = "5432";
@@ -15,7 +15,7 @@
         $psw = "caramella";
 
         try{
-            $pdo = new PDO("$type:host=$host;dbname=$db", $user, $pass);
+            $pdo = new PDO("$type:host=$host;dbname=$db", $user, $psw);
         }catch (PDOException $e) {
             echo 'Connection failed: ' . $e->getCode() . '&nbsp;' . $e->getMessage();
         }
